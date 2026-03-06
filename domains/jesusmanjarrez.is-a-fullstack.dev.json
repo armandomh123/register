@@ -1,0 +1,16 @@
+{
+    "description": "My portfolio website",
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "jesusmanjarrez",
+
+    "owner": {
+        "repo": "https://github.com/armandomh123/register",
+        "email": "amanjarrezh19@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "https://astro-portfolio.ct2xmh.workers.dev/"
+    },
+
+    "proxied": false
+}
